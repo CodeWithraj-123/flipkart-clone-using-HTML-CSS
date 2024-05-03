@@ -1,0 +1,21 @@
+.logo {
+    text-align: center;
+  }
+  .header-main {
+    border-bottom: 1px solid rgb(199, 199, 199);
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .image-container {
+    display: flex;
+    column-gap: 60px;
+    justify-content: center;
+  }
+  .container a {
+    text-decoration: none;
+    color: black;
+  }
